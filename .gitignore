@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/SortingAlgorithmComparison/.vs
+/SortingAlgorithmComparison/CompareProgram/x64
+/SortingAlgorithmComparison/TestArrayGenerator/x64
+/SortingAlgorithmComparison/x64
